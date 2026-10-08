@@ -1,4 +1,4 @@
-# Private Markets Math Boy
+# Private Markets Document Multi-Agents
 
 A Jupyter notebook that builds a **hybrid RAG + multi-agent pipeline** for private-markets (Private Equity / Venture Capital) financial documents. It ingests SEC filings, board packs and undocumented Excel dumps, and produces an investment-committee memo with risk flags.
 
